@@ -7,3 +7,9 @@ Introdução a Computação em Nuvem
 Versionamento com Git e GitHub 
 Microsoft Azure - Localizando Serviços por Categoria
 Benefícios da Nuvem Azure
+Tipos de Serviço de Nuvem
+Componentes de Arquitetura do Azure
+Computaçãoe Rede na Azure
+Armazenamento do Azure
+Identidade, Acesso e Segurança
+
