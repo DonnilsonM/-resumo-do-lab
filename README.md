@@ -12,4 +12,5 @@ Componentes de Arquitetura do Azure
 Computaçãoe Rede na Azure
 Armazenamento do Azure
 Identidade, Acesso e Segurança
+Gerenciamento de Custos na Azure
 
