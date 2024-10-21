@@ -13,4 +13,5 @@ Computaçãoe Rede na Azure
 Armazenamento do Azure
 Identidade, Acesso e Segurança
 Gerenciamento de Custos na Azure
+Ferramentas de implantação de recursos
 
